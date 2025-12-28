@@ -9,6 +9,7 @@ I'm a freelance editor and content specialist focused on improving clarity, gram
 
 ### What you'll find here
 This Github profile is used as a profesional portfolio.
+
 It includes:
 - Before and after editing samples
 - Clear editing workflows
@@ -17,5 +18,6 @@ It includes:
 All content shared here is created for demonstrations and portfolio purpose.
 
 📍Based in Germany
+
 💼 Available for freelance projects
 
