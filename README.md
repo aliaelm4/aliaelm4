@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there I'm Alia👋
+I'm a freelance editor and content specialist focused on improving clarity, grammar and readability in written content.
 
-<!--
-**aliaelm4/aliaelm4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What I do
+- Proofreading and text editing
+- Improving clarity and sentence flow
+- Structured editing workflows
+- Documentation and sample based projects
 
-Here are some ideas to get you started:
+### What you'll find here
+This Github profile is used as a profesional portfolio.
+It includes:
+- Before and after editing samples
+- Clear editing workflows
+- Project documentation and examples
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+All content shared here is created for demonstrations and portfolio purpose.
+
+📍Based in Germany
+💼 Available for freelance projects
+
